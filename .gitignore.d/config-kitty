@@ -1,0 +1,7 @@
+*
+!/.gitignore.d
+!/.gitignore.d/config-kitty
+!/.config
+!/.config/kitty
+!/.config/kitty/kitty.conf
+!/.config/kitty/default.session
